@@ -1,16 +1,12 @@
 <h1 align="center"> Super Mario Bros - O Filme </h1>
 
 <p align="center">
-Página desenvolvida durante a semana "Do zero ao empreendedor contratado", evento exclusivo e gratuito promovido pelo Dev em Dobro. <br/>
+Projeto desenvolvido durante a semana "Do Zero ao Empreendedor Contratado", evento exclusivo e gratuito promovido pelo Dev em Dobro. <br/>
 </p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
-
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
 <br>
